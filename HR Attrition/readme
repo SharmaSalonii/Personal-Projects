@@ -1,1 +1,32 @@
-H
+📊 HR Attrition Analysis Project Summary
+🔍 Objective
+To analyze employee attrition patterns, identify key factors influencing turnover, and provide actionable insights to enhance employee 
+retention strategies.
+
+🗃️ Data Source
+1. Dataset: IBM HR Analytics Employee Attrition & Performance dataset.
+2. Attributes: Includes features like Age, Department, Job Role, Monthly Income, Job Satisfaction, Years at Company, and Attrition status.​
+
+🛠️ Tools & Technologies
+1. SQL: For data extraction, transformation, and analysis.
+2. AI Text-to-SQL Tool: Utilized to convert natural language queries into SQL statements, facilitating easier data interrogation.
+3. Power BI: For data visualization and dashboard creation.
+4. Smart Narrative: Power BI feature used to generate automated textual summaries and insights from visual data.​
+
+🧠 Key Insights
+1. Overall Attrition Rate: Calculated the percentage of employees who left the organization.
+2. Department-wise Analysis: Identified departments with the highest attrition rates.
+3. Job Role Impact: Analyzed which job roles are more prone to attrition.
+4. Income Correlation: Explored the relationship between monthly income levels and attrition.
+5. Job Satisfaction: Assessed how job satisfaction scores influence employee turnover.
+6. Tenure Analysis: Examined attrition trends based on years at the company.​
+
+📈 Power BI Dashboard Features
+1. Interactive Visuals: Charts and graphs depicting attrition trends across various dimensions.
+2. Filters & Slicers: Enable users to drill down into specific segments like department, job role, or income level.
+3. Smart Narrative: Provides automated textual summaries highlighting key findings and trends from the visual data.​
+
+📌 Conclusion
+By integrating AI-driven text-to-SQL capabilities with robust data visualization tools like Power BI, this project offers a streamlined 
+approach to understanding and addressing employee attrition. The insights derived can inform HR strategies aimed at improving employee 
+satisfaction and reducing turnover
