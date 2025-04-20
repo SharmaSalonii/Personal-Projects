@@ -14,12 +14,18 @@ retention strategies.
 4. Smart Narrative: Power BI feature used to generate automated textual summaries and insights from visual data.​
 
 🧠 Key Insights
-1. Overall Attrition Rate: Calculated the percentage of employees who left the organization.
-2. Department-wise Analysis: Identified departments with the highest attrition rates.
-3. Job Role Impact: Analyzed which job roles are more prone to attrition.
-4. Income Correlation: Explored the relationship between monthly income levels and attrition.
-5. Job Satisfaction: Assessed how job satisfaction scores influence employee turnover.
-6. Tenure Analysis: Examined attrition trends based on years at the company.​
+1. ﻿﻿Count of Attrition was highest for 5 at 196, followed by 1 and 3.﻿﻿
+2. ﻿﻿﻿5 accounted for 13.39% of Count of Attrition.﻿﻿
+3. ﻿﻿﻿Total employee was higher for employee stayed (1,230) than employee exist (234).﻿﻿
+4. ﻿﻿﻿﻿64.48% of count of employee exist  .﻿﻿
+5. ﻿﻿Average Count of Employee was higher for employee stayed (615) than employees left (117).﻿﻿
+6. ﻿﻿Across all 9 Job Role, Count of Attrition ranged from 52 to 324.﻿﻿
+﻿7. Overall attrition rate stands at 16.12%, with highest exits in the first 2 years of employment.
+8. Sales Executives, Research Scientists, and Lab Technicians face the highest attrition among job roles.
+9. Over Time, Low Job Satisfaction, and Poor Work-Life Balance are major indicators of potential attrition.
+10. Single employees show higher attrition compared to married or divorced staff.
+11. Departments with lower average monthly income tend to have higher attrition.
+​
 
 📈 Power BI Dashboard Features
 1. Interactive Visuals: Charts and graphs depicting attrition trends across various dimensions.
