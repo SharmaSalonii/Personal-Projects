@@ -1,5 +1,6 @@
 
-#📊 Student Habit Performance Dashboard
+                                      📊 Student Habit Performance Dashboard
+                                      
 This Power BI dashboard provides a comprehensive analysis of student habits and their impact on academic performance.The aim is to visualize 
 behavioral patterns such as study time, sleep schedule, extracurricular involvement, and other key factors contributing to student success.
 
