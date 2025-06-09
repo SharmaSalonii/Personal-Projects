@@ -31,10 +31,11 @@ Focused discounts on high-performing products with elasticity.
 Enabled real-time monitoring of sales, stock, and discount effectiveness.
 
 ##### Insights
-﻿Low-weight (<250g) had the highest Count of Product Name at 1,944, followed by Medium (250g–500g) at 1,278 and High (>500g) at 510.﻿﻿
+﻿Low-weight (<250g) had the highest Count of Product at 1,944, followed by Medium (250g–500g) at 1,278 and High (>500g) at 510.﻿﻿
 ﻿﻿
-﻿﻿Low-weight (<250g) accounted for 52.09% of Count of Product Name.﻿﻿
+﻿﻿Low-weight (<250g) accounted for 52.09% of total Product.﻿﻿
+  
 ﻿
-﻿﻿Across all 11 Category, Sum of Total value of stock per product ranged from 5505100 to 33736900.﻿﻿
+﻿﻿Across all 11 Category, Total value of stock per product ranged from 5505100 to 33736900.﻿﻿
 ﻿﻿
 
