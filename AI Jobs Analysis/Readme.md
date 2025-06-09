@@ -4,6 +4,7 @@ skill demand, remote work dynamics, and more—offering insights into how the AI
 
 #### Project Files
 ai_job_dataset.csv – Raw dataset containing AI job listings and metadata.
+
 ai job analysis.sql – SQL script for transforming the data and running comprehensive queries.
 
 #### Objective
