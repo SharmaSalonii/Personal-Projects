@@ -6,6 +6,7 @@ behavioral patterns such as study time, sleep schedule, extracurricular involvem
 
 #### 📁 Project File
 File Name: Student habit performance dashboard.pbix
+
 Tool Used: Power BI
 
 #### 🔍 Objective
@@ -17,16 +18,23 @@ KPIs: Overall average performance, attendance rate, average study hours
 
 ##### Charts and Visuals:
 Bar Chart: Study time vs Academic Score
+
 Pie Chart: Distribution of Extracurricular Participation
+
 Line Chart: Sleep hours trend over months
+
 Slicer Filters: Student Gender, Grade Level, Subject, Semester
 
 #### 🧠 Key Insights
 Correlation between consistent sleep schedules and higher performance.
+
 Students involved in moderate extracurricular activities showed better time management and grades.
+
 Study hours beyond a threshold showed diminishing returns.
 
 #### 🛠 Tools & Technologies
 Power BI Desktop
+
 Data Transformation: Power Query
+
 Visualization: Bar, Pie, Line Charts, KPIs, Slicers
