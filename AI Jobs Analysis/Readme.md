@@ -9,8 +9,13 @@ ai job analysis.sql – SQL script for transforming the data and running compreh
 
 #### Objective
 To uncover patterns and insights in the AI job market by analyzing:
+
 Job roles and skill demands
+
 Salary and benefits across industries and locations
+
 Remote work trends
+
 Education and experience requirements
+
 Hiring patterns by company and country
